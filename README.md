@@ -1,4 +1,4 @@
-# Wildfires in México 2015-2023 | Python | Data Science
+# Incendios Forestales México 2015-2023 | Python | Data Science
 ![image](https://github.com/Valamca/Fires_Mexico_2015-2023/assets/129345721/3c0f9b0a-3f47-4b12-a86c-2f225b5a73d4)
 <ul align = center>
 
@@ -12,7 +12,7 @@
 ## Descripción:
   El presente proyecto muestra el procedimiento para calcular con herramientas de análisis y ciencia de datos, aquellos registros en que las causas de los incendios son desconocidas,
   convirtiendolo en un procedimiento de clasificación. <br>
-  De la misma manera, este set de datos será compartido en la plataforma de [Kaggle](https://www.kaggle.com) para observar sí más personas pueden asignar diferentes soluciones al mismo problema.
+  De la misma manera, este set de datos será compartido en la plataforma de [Kaggle](https://www.kaggle.com) para observar a mas personas conseguir diferentes soluciones al mismo problema.
   
 ### Obtención de datos:
 Los datos fueron obtenidos del set de datos abiertos proporcionados por CONAFOR <br>
@@ -26,7 +26,17 @@ También necesitarás instalar algunas librerías de Python que son esenciales p
 - Matplotlib
 - Scikit-learn
 - Seaborn
-  
+## Procedimiento
+## Conclusiones
+
+## Resultados: Panel de Control
+
+![image](https://github.com/Valamca/Fires_Mexico_2015-2023/assets/129345721/9d890f5d-3cb0-492a-bb04-e14257aedcb4)
+
+Los datos resultantes de la limpieza de datos y las predicciones realizadas, se utilizaron para corregir información faltante con la mayor fidelidad y confianza estadística posible. <br>
+El Panel de control puede ser encontrando en la siguiente dirección: [Incendios Forestales 2015-2023](https://app.powerbi.com/view?r=eyJrIjoiNjZlYTM0ZmYtOTBiMS00OWMwLThjNmMtOGFjYzAyYmE0NjkxIiwidCI6IjAzMGU5NTFkLTZlZmQtNDJmNS04NDI3LWJhYjYzMmNmODAxMCIsImMiOjR9&pageName=ReportSection
+)
+
 **Desarrollador** :wink: 
 
  <img src="https://avatars.githubusercontent.com/u/129345721?v=4" width=115>
