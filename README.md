@@ -16,16 +16,32 @@
   
 ### Obtención de datos: 💾
 Los datos fueron obtenidos del set de datos abiertos proporcionados por CONAFOR <br>
-Fuente Original: [CONAFOR, 2024](https://snif.cnf.gob.mx/datos-abiertos/)
+Fuente Original: 
+<a href="https://snif.cnf.gob.mx/datos-abiertos/" target="_blank">CONAFOR, 2024</a>
 
 ## Configuración del ambiente: 💻 
-Para empezar, se puede utilizar cualquier entorno de Python, tan sólo asegúrate que sea una versión 3.X, el base es Jupyter Notebook anque tu puedes usar el Notebook de tu preferencia como: Google Colab,  Anaconda, DeepNote, Azure, entre otros.<br>
-También necesitarás instalar algunas librerías de Python que son esenciales para este proyecto, como: <br>
-- Pandas 
-- Numpy 
-- Matplotlib
-- Scikit-learn
-- Seaborn
+
+En este proyecto se emplearon los siguientes programas:
+
+Exploración Inicial: <br>
+- Microsoft Excel
+
+Análisis de datos: <br>
+
+- Visual Studio Code<br>
+  Para empezar, se puede utilizar cualquier entorno de Python, tan sólo asegúrate que sea una versión 3.X, el base para este proyecto es Jupyter Notebook aunque tu puedes usar el Notebook de tu preferencia como: Google Colab,    Anaconda, DeepNote, Azure, entre otros.<br>
+  También necesitarás instalar algunas librerías de Python que son esenciales para este proyecto, como: <br>
+  - Pandas 
+  - Numpy 
+  - Matplotlib
+  - Scikit-learn
+  - Seaborn
+
+Base de datos: <br>
+- Microsoft SQL Server
+
+Visualización de resultados: <br>
+- Power BI
   
 ## Procedimiento: ✔️
 
@@ -64,8 +80,8 @@ Finalmente, se creó un tablero de control en Power BI para visualizar los resul
 
 ![image](https://github.com/Valamca/Fires_Mexico_2015-2023/assets/129345721/9d890f5d-3cb0-492a-bb04-e14257aedcb4)
 
-El Panel de control puede ser encontrando en la siguiente dirección: [Incendios Forestales 2015-2023](https://app.powerbi.com/view?r=eyJrIjoiNjZlYTM0ZmYtOTBiMS00OWMwLThjNmMtOGFjYzAyYmE0NjkxIiwidCI6IjAzMGU5NTFkLTZlZmQtNDJmNS04NDI3LWJhYjYzMmNmODAxMCIsImMiOjR9&pageName=ReportSection
-)
+El Panel de control puede ser encontrando en la siguiente dirección:
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNjZlYTM0ZmYtOTBiMS00OWMwLThjNmMtOGFjYzAyYmE0NjkxIiwidCI6IjAzMGU5NTFkLTZlZmQtNDJmNS04NDI3LWJhYjYzMmNmODAxMCIsImMiOjR9&pageName=ReportSection" target="_blank">Incendios Forestales 2015-2023</a>
 
 ## Conclusiones: 💡
 
