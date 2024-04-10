@@ -12,7 +12,9 @@
 ## Descripción: 📄
   El presente proyecto muestra el procedimiento para calcular con herramientas de análisis y ciencia de datos, aquellos registros en que las causas de los incendios son desconocidas,
   convirtiendolo en un procedimiento de clasificación. <br>
-  De la misma manera, este set de datos será compartido en la plataforma de [Kaggle](https://www.kaggle.com) para observar a mas personas conseguir diferentes soluciones al mismo problema.
+  De la misma manera, este set de datos será compartido en la plataforma de **Kaggle** para observar a mas personas conseguir diferentes soluciones al mismo problema.
+
+  Enlace: [Forest Fire Registry of Mexico](https://www.kaggle.com/datasets/valamcortes/forest-fire-registry-of-mexico)
   
 ### Obtención de datos: 💾
 Los datos fueron obtenidos del set de datos abiertos proporcionados por CONAFOR <br>
